@@ -7,7 +7,7 @@
 
 ### You can play the game by either downloading this repository and running the following command in the terminal:
 
-```dotnet run```
+`dotnet run`
 
 ## OR
 
