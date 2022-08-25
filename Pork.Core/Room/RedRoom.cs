@@ -26,6 +26,12 @@ namespace Pork.Core.Room
                         Console.WriteLine("There is a quill and inkwell on the table.");
                         break;
 
+                    case "chack room":
+                        Console.WriteLine("You see that:");
+                        Console.WriteLine("-> On the wall there are some hieroglyphs.");
+                        Console.WriteLine("-> There is a book in the middle of the room.");
+                        break;
+
                     case "answer book":
                         bool leaveBook = false;
                         while (leaveBook == false)

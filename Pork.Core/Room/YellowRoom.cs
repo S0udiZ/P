@@ -6,7 +6,7 @@ namespace Pork.Core.Room
         {
             bool leaveRoom = false;
             bool mirrorChecked = false;
-            Console.WriteLine("As you enter the room, you see that there insen't anything but a large mirror in the room.");
+            Console.WriteLine("As you enter the room, you see that there isn't anything but a large mirror in the room.");
             while (leaveRoom == false)
             {
                 Console.Write("> ");
@@ -14,7 +14,7 @@ namespace Pork.Core.Room
                 switch (answer.ToLower())
                 {
                     case "check mirror":
-                        Console.WriteLine("As you look closer in the mirror, you see in the reflection thet there is a table infront of you with a key on it.");
+                        Console.WriteLine("As you look closer in the mirror, you see in the reflection that there is a table in front of you with a key on it.");
                         mirrorChecked = true;
                         break;
 

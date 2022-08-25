@@ -139,7 +139,7 @@ namespace Pork.Core.Room
                     Console.WriteLine("--------------------------------------------------------------------------------");
                     Console.WriteLine("As you put in and turn the last key you hear a click.");
                     Console.WriteLine("You feel that the ground begings to shake and the table begins to rise up.");
-                    Console.WriteLine("As the table is fully raised up, you see a door thats leading out side.");
+                    Console.WriteLine("As the table is fully raised up, you see a door thats leading outside.");
                     Console.WriteLine("You smell the fresh air and begins to remember the time outside.");
                     Console.WriteLine("As you look back you are ready to leave.");
                     Console.Write("Are you ready to leave? (y/y) ");

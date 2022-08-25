@@ -13,7 +13,7 @@ namespace Pork.Core.Room
             Console.WriteLine("-> One of a fool");
             Console.WriteLine("-> One of a knight");
             Console.WriteLine("-> One of a king");
-            Console.WriteLine("-> One of a priest");
+            Console.WriteLine("-> One of a preist");
             Console.WriteLine("You see a lever in the middle of the room.");
             while (leaveRoom == false)
             {
