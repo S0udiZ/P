@@ -1,0 +1,30 @@
+
+--------------------------------------------------------------------------------------------------------------------------------
+$$\   $$\ $$$$$$$$\ $$\       $$$$$$$\  
+$$ |  $$ |$$  _____|$$ |      $$  __$$\ 
+$$ |  $$ |$$ |      $$ |      $$ |  $$ |
+$$$$$$$$ |$$$$$\    $$ |      $$$$$$$  |
+$$  __$$ |$$  __|   $$ |      $$  ____/ 
+$$ |  $$ |$$ |      $$ |      $$ |      
+$$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$ |      
+\__|  \__|\________|\________|\__|      
+--------------------------------------------------------------------------------------------------------------------------------
+                                                                                
+To play PORK you just need to give out commands in a scrutured format.
+-> This format must contain a verb and a thing
+-> Fx. Open door, Use item, Check room, Place item, etc.
+
+For complex interactions you need to specify the command more
+-> Fx. Open door on right, Place item on ground, Use item in door, etc.
+-> If there is a color involved in the commands it must be put between the verb and the thing.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Commands you can allways use whenever you want.
+-> Clear game screen: Clears the screen.
+-> Inventory: Opens the inventory.
+-> Menu: Opens the menu.
+-> Help: Opens the help page.
+-> Map: Shows a map of the current room.
+
+--------------------------------------------------------------------------------------------------------------------------------

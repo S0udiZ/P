@@ -1,0 +1,83 @@
+>check room
+
+>check door
+
+>check padlock
+
+>input numbers
+
+>4
+
+>1
+
+>9
+
+>open door
+
+>check table
+
+>check doors
+
+>open red door
+
+>check book
+
+>check hieroglyphs
+
+>answer book
+
+>stop hammertime
+
+>leave
+
+>open blue door
+
+>check room
+
+>follow stars
+
+>take key
+
+>leave
+
+>open yellow door
+
+>check mirror
+
+>take key
+
+>leave
+
+>open purple door
+
+>answer riddle
+
+>the match
+
+>leave
+
+>open green door
+
+>check room
+
+>rotate king north
+
+>rotate knight north
+
+>rotate perist west
+
+>pull lever
+
+>leave
+
+>inventory (there should be a red, blue, yellow, purple and green key)
+
+>use red key
+
+>use blue key
+
+>use green key
+
+>use yellow key
+
+>use purple key
